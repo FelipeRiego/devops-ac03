@@ -1,0 +1,3 @@
+Em linhas conceituais, a arquitetura de TI pode ser entendida como a área da Tecnologia da Informação encarregada de projetar e implementar soluções baseadas nos conceitos desta, se valendo de diversos sistemas, tecnologias, serviços e produtos.
+
+É esse conceito que permite que as empresas extraiam o melhor benefício possível de seus ativos, por meio da organização correta e do desenho dos ambientes e das instalações que podem afetar o desempenho de toda a infraestrutura.
