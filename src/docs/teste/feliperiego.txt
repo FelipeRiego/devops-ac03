@@ -1,0 +1,3 @@
+
+Realizar os testes é garantir o sucesso da equipe, garantindo que as funcionalidades foram entregues, garantir que o nosso software continua funcionando a cada atualização, nos tornando proativos na correção de falhas, precisamos apresentar confiança ao alterar nossos softwares.
+Os testes têm também o objetivo de documentar o funcionamento de um código e precisamos focar nesse aspecto no primeiro momento e depois poderemos refatorar o código com tranquilidade.
